@@ -1,0 +1,22 @@
+﻿  cpp7.cpp
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(40,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(40,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(41,39): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(41,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(42,44): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(42,32): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(76,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(83,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(125,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(126,52): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(127,104): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(127,84): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(127,64): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(127,45): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(132,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(140,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(165,95): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\asali\OneDrive\Рабочий стол\cpp7\cpp7\cpp7.cpp(165,67): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  cpp7.vcxproj -> C:\Users\asali\OneDrive\Рабочий стол\cpp7\x64\Debug\cpp7.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
